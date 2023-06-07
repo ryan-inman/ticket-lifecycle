@@ -60,7 +60,7 @@ The Help Desk Agent/Admin can assign the ticket to themselves, a specific person
 <br />
 
 <p>
-For this ticket we will 
+Due to the ticket's complexity and severity, it will be assigned to Agent 1 within the Systems Administrator department.
 </p>
 <br />
 
@@ -70,8 +70,22 @@ For this ticket we will
 <br />
 
 <p>
-The assigned Help Desk Agent/Admin works on the ticket. They make updates and notes to track the progress of the ticket. The priority of the ticket can be changed based on the urgency or impact of the issue.
+Login to osTicket as Agent 1 and navigate to the assigned ticket.
 </p>
+<br />
+
+<p>
+As Agent 1, we will now proceed with addressing the ticket. We have the ability to make updates and add notes to monitor the ticket's progress, ensuring that the end user is continuously informed about the status of the issue resolution.
+</p>
+<br />
+
+<p>
+We will modify the Priority Level for this ticket from Normal to Emergency due to its significant impact on the business. Additionally, we need to adjust the SLA Plan to SEV-A to align with the updated Priority Level.
+</p>
+<br />
+
+<p>
+Note that the Ticket Thread will now reflect the updates we have made.
 <br />
 
 <p>
@@ -85,21 +99,21 @@ If needed, the ticket can be escalated to a higher level of support. Collaborati
 <br />
 
 <p>
-text
+To bring mobile banking back online we will coordinate with the System Admin Team. Let's post a reply to update the customer.
 </p>
 <br />
 
 <p>
-text
+After reaching out to the System Admin Team we have resolved the issue and can now close the ticket by selecting "Closed" in the Ticket Status box.
 </p>
 <br />
   
 <p>
-text
+The ticket has now been moved to the closed ticket column, indicating a successful resolution has been found!
 </p>
 <br />
   
 <p>
-text
+Congratualtions on completing this osTicket Lab! 
 </p>
 <br />
