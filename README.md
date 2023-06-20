@@ -75,10 +75,6 @@ As Agent 1, we will begin addressing the ticket. Start by modifying the Priority
 <br />
 
 <p>
-Note that the Ticket Thread will now reflect the updates we have made.
-<br />
-
-<p>
 <b>Step 4: Resolution</b>
 </p>
 <br />
