@@ -85,7 +85,7 @@ To bring mobile banking back online we will coordinate with the System Admin Tea
 <br />
 
 <p>
-After reaching out to the System Admin Team we have resolved the issue and can now close the ticket by selecting "Closed" in the Ticket Status box.
+After reaching out to the System Admin Team we have resolved the issue and can now close the ticket by selecting "Resolved" in the Ticket Status box.
 </p>
 <br />
   
