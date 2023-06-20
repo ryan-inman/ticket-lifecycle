@@ -70,7 +70,7 @@ Login to osTicket as Agent 1 and navigate to the assigned ticket.
 <br />
 
 <p>
-As Agent 1, we will be addressing the ticket. Start by modifying the Priority Level for this ticket from Normal to Emergency due to its significant impact on the business. Additionally, adjust the SLA Plan to SEV-A to align with the updated Priority Level. 
+As Agent 1, we will begin addressing the ticket. Start by modifying the Priority Level for this ticket from Normal to Emergency due to its significant impact on the business. Additionally, adjust the SLA Plan to SEV-A to align with the updated Priority Level. 
 </p>
 <br />
 
