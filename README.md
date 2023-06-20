@@ -55,7 +55,7 @@ The Help Desk Agent/Admin can assign the ticket to themselves, a specific person
 <br />
 
 <p>
-Due to the ticket's complexity and severity, it will be assigned to Agent 1 within the Systems Administrator department.
+Let's assign this ticket to Agent 1.
 </p>
 <br />
 
@@ -80,11 +80,6 @@ Note that the Ticket Thread will now reflect the updates we have made.
 
 <p>
 <b>Step 4: Resolution</b>
-</p>
-<br />
-  
-<p>
-If needed, the ticket can be escalated to a higher level of support. Collaboration with other teams or departments may be required. Once the issue is resolved, the ticket is marked as closed and moved to the "closed" tickets column.
 </p>
 <br />
 
