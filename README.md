@@ -5,11 +5,6 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -75,12 +70,7 @@ Login to osTicket as Agent 1 and navigate to the assigned ticket.
 <br />
 
 <p>
-As Agent 1, we will now proceed with addressing the ticket. We have the ability to make updates and add notes to monitor the ticket's progress, ensuring that the end user is continuously informed about the status of the issue resolution.
-</p>
-<br />
-
-<p>
-We will modify the Priority Level for this ticket from Normal to Emergency due to its significant impact on the business. Additionally, we need to adjust the SLA Plan to SEV-A to align with the updated Priority Level.
+As Agent 1, we will be addressing the ticket. Start by modifying the Priority Level for this ticket from Normal to Emergency due to its significant impact on the business. Additionally, adjust the SLA Plan to SEV-A to align with the updated Priority Level. 
 </p>
 <br />
 
